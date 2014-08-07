@@ -1,1 +1,1 @@
-./lein run $@
+./lein run -- $@

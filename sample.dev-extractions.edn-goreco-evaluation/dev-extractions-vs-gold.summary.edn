@@ -1,0 +1,7 @@
+{:f1 0.20149253731343283,
+ :precision 0.3176470588235294,
+ :false-positives-count 116,
+ :extractions-count 171,
+ :recall 0.1475409836065574,
+ :true-positives-count 54,
+ :gold-instances-count 366}

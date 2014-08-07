@@ -1,0 +1,12 @@
+Relation,#Extractions,#FP,#Matches,P,R,F1
+/people/person/nationality,62,50,11,0.180327868852459,0.1929824561403509,0.18644067796610167
+/people/person/profession,21,8,13,0.619047619047619,0.2708333333333333,0.3768115942028985
+/people/person/employment_history|/business/employment_tenure/company,17,4,13,0.7647058823529412,0.3095238095238095,0.4406779661016949
+/organization/organization/parent|/organization/organization_relationship/parent,14,13,1,0.07142857142857142,1.0,0.13333333333333333
+/people/person/spouse_s|/people/marriage/spouse,13,11,2,0.1538461538461538,0.25,0.19047619047619044
+/organization/organization/headquarters|/location/mailing_address/citytown,12,4,8,0.6666666666666667,0.2285714285714286,0.34042553191489366
+/people/person/places_lived|/people/place_lived/location,7,5,2,0.2857142857142857,0.05882352941176471,0.0975609756097561
+/people/person/place_of_birth,7,6,1,0.1428571428571429,1.0,0.2500000000000001
+/business/business_operation/industry,4,3,1,0.25,0.05,0.08333333333333334
+/people/person/employment_history|/business/employment_tenure/title,2,1,1,0.5,0.1666666666666667,0.25000000000000006
+athletePlaysForTeam,1,0,1,1.0,0.07692307692307691,0.14285714285714285

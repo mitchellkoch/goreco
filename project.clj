@@ -1,6 +1,8 @@
 (defproject goreco "0.1.0-SNAPSHOT"
   :description "GoReCo relation extraction evaluation"
   :url "http://github.com/mitchellkoch/goreco"
+  :license {:name "The MIT License" 
+            :url "http://opensource.org/licenses/mit-license.php"}
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [mitchellkoch/fipe "0.1.0"]
                  [prismatic/plumbing "0.3.2"]
